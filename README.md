@@ -1,2 +1,16 @@
 # react-machine-coding-solutions
-Hands-on React machine coding exercises and mini-projects for interviews and practice. Each file is a self-contained, easy-to-understand solution.
+
+A collection of simple, practical React machine coding problems — focused on clarity, fundamentals, and interview preparation.
+Each snippet is self-contained, easy to run, and demonstrates a real-world concept you might face in a frontend interview.
+
+🚀 Features
+
+⚡ Clean, minimal implementations
+
+🧠 Covers common React interview problems
+
+🧩 Each file is independent and easy to understand
+
+🪶 Uses functional components + React hooks only
+
+🧰 Focus on writing maintainable, scalable code
