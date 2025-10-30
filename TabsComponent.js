@@ -79,3 +79,5 @@ export default function Tabs() {
     </div>
   );
 }
+
+// avoid inline styling or use less
