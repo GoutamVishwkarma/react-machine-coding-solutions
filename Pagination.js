@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./styles.css";
 
-
+const PAGE_SIZE = 10;
 
 const User = ({ user }) => {
   return (
