@@ -101,3 +101,6 @@ export default function App() {
     </div>
   );
 }
+
+
+//avoid adding inline styles
