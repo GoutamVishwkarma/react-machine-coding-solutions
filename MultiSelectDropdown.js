@@ -16,7 +16,7 @@ export default function App() {
 
   const handleSelect = (item) => {
     // Prevent duplicate
-    if (!options.some((o) => o.value === item.value)) {
+    if (item && !options.some((o) => o.value === item.value)) {
       setOptions((prev) => [...prev, item]);
     }
     setSearchTerm("");
