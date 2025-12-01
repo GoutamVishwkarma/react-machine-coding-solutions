@@ -37,7 +37,7 @@ export default function App() {
         </div>
       ))}
 
-      <h2>Start editing to see some magic happen!</h2>
+      <h2>Start editing to see it happen!</h2>
       <pre>{JSON.stringify(fields, null, 2)}</pre>
     </div>
   );
