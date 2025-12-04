@@ -37,8 +37,6 @@ export default function App() {
     return <div>Loading...</div>;
   }
 
-  console.log(usersList);
-
   const totalPages = Math.ceil(usersList.length / PAGE_SIZE);
   const startIndex = (currentPage - 1) * PAGE_SIZE;
   const endIndex = startIndex + PAGE_SIZE;
