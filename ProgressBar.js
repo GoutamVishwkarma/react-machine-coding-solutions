@@ -17,7 +17,7 @@ function ProgressBar({ progress }) {
           position: "relative",
         }}
       >
-        {/* Progress Fill */}
+  
         <div
           style={{
             position: "absolute",
@@ -31,7 +31,6 @@ function ProgressBar({ progress }) {
           }}
         />
 
-        {/* Progress Text */}
         <span
           style={{
             fontSize: "14px",
