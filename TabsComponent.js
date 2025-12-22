@@ -20,7 +20,7 @@ const tabList = [
   },
 ];
 
-// ✅ Separate component for tab content
+
 function TabContent({ activeTab }) {
   if (!activeTab?.content) {
     return <div style={{ padding: "1rem", color: "#666" }}>No Content Available</div>;
