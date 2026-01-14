@@ -17,11 +17,6 @@ const items = [
     title: "Node.js",
     content: "Basics of server-side development with Node.js.",
   },
-  {
-    id: "acc-4",
-    title: "Full-Stack Development",
-    content: "Build full-stack apps with React and Node.js.",
-  },
 ];
 
 function Accordian({ item, isOpen, handleAccordian }) {
